@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛性論
+#+DATE: 2015-08-30 20:58:06.475195
+#+PROPERTY: JUAN 0
